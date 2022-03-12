@@ -112,6 +112,12 @@ ul {
   font-size: 32px;
 }
 
+.navbar-brand:hover {
+  font-family: 'Viga', sans-serif;
+  color: #BD002F;
+  font-size: 32px;
+}
+
 .bg-dark {
   background: transparent !important;
   transition: 0.5s ease;
@@ -325,7 +331,7 @@ i.fas.fa-angle-down {
 
 .btn-2:hover {
   color: #ffffff;
-  background-color: #bd002f;
+  background-color: #BD002F;
   text-decoration: none;
 }
 
